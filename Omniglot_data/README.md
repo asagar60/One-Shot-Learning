@@ -17,8 +17,8 @@ How to Train the model ?
 
     For this implementation we need only 'images_background.zip' and 'images_evaluation.zip' .
 3. Extract the folder
-4. ```bash
-python load_data.py
+ ```bash
+4.    python load_data.py
 ```
 5. Execute ipython notebook cells from `One_shot_implementation.ipynb`.
 
