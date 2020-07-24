@@ -23,3 +23,5 @@ How to Train the model ?
 5. Execute ipython notebook cells from `One_shot_implementation.ipynb`.
 
 Download pre-trained weights from [here](https://drive.google.com/file/d/1JmP0TnsotXA6CNDIE0-6MpkBun7KKS2s/view?usp=sharing).
+
+*Note* : Updated Implementation with appropriate evaluation Metric : https://github.com/asagar60/Siamese-Neural-Networks-for-One-shot-Image-Recognition
